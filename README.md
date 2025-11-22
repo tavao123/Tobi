@@ -1,36 +1,44 @@
 # Tobi
-I'm not trying to replace Loritta, I'm just a beginner (with codes modified by chatgpt).
+I'm not trying to replace Loritta — I'm just a beginner (with some codes modified by ChatGPT).
 
+---
 
+# 📘 About Me
 
-# INFO
+Hi! I'm **Tobi**, your assistant on this server.  
+I'm **13 years old**, and I want to be your friend :3
 
-Hi, I'm Tobi, your assistant on your server, I'm 13 years old and I want to be your friend :3
+---
 
-#  Current commands
+# 🎵 Music Commands
 
-/callCR - __Add a voice channel to become a call creator.__
-/callen - __Music option, use this command to put the bot inside the call to play music.__
-/callsair - __Tired of the music? Remove the bot using this command.__
-/loop - __Did you like the song so much that you want to listen to it again? Use this command to put it in loo format.__
-/unloop - __I don't want to listen to it on loop anymore.3:__
-/ping - __Is the bot lagging or freezing a lot? Use this to check its ping.__
-/repeatkit - __Want to play that song you love again? Use this command to do it.__
+**/callCR** — Adds a voice channel to turn it into a call creator.  
+**/callen** — Makes the bot join the call to play music.  
+**/callsair** — Removes the bot from the call.  
+**/loop** — Puts the current song on repeat.  
+**/unloop** — Removes the song from loop mode.  
+**/repeatkit** — Plays the last song again.  
+**/ping** — Shows the bot’s ping to check for lag.
 
+---
 
-# Playlist CMDS
+# 🎶 Playlist Commands
 
-/playlist add - __Want to listen to all your favorite songs at once? Use this command to add them.__
-/playlist list - __Want to see the songs you added? Use this command to view them.__
-/playlist play - __Now that you've chosen your songs, would you like to play them?__
-/playlist remove - __Tired of this playlist? Remove it to add more music.__
-/unplaylist - __Delete the playlist and the bot leaves the call__
+**/playlist add** — Adds songs to your playlist.  
+**/playlist list** — Shows all songs you added.  
+**/playlist play** — Plays your playlist.  
+**/playlist remove** — Removes songs from the playlist.  
+**/unplaylist** — Deletes the playlist and makes the bot leave the call.
 
-# ticket
+---
 
-/ticket - __Do you have a complaint? Use /ticket to start a ticket (don't forget the reason).__
+# 🎫 Ticket
 
-# Icon
+**/ticket** — Opens a ticket to make a report or complaint (don’t forget the reason).
 
-/seticon - __Defines the channel where the icon update will appear.__
-/showiconchannel - __Shows the channel where the icon update system is defined.__
+---
+
+# 🖼️ Icon
+
+**/seticon** — Sets the channel where icon updates will be sent.  
+**/showiconchannel** — Shows which channel is configured for icon updates.
