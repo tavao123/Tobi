@@ -1,3 +1,12 @@
+# 🚀 Add Tobi to Your Server!
+Want a friendly assistant to help manage your community, play music, and keep everything organized?  
+
+**👉 [Click here to invite Tobi!](https://discord.com/oauth2/authorize?client_id=1432075160772546634&scope=bot%20applications.commands&permissions=0) 👈**
+
+**This is the official invite link — highlighted so you don’t miss it!**
+
+---
+
 # Tobi
 I'm not trying to replace Loritta — I'm just a beginner (with some codes modified by ChatGPT).
 
@@ -12,7 +21,7 @@ I'm **13 years old**, and I want to be your friend :3
 
 # 🎵 Music Commands
 
-**/callCR** — Adds a voice channel to turn it into a call creator.  
+**/callCR** — Adds a voice channel and turns it into a call creator.  
 **/callen** — Makes the bot join the call to play music.  
 **/callsair** — Removes the bot from the call.  
 **/loop** — Puts the current song on repeat.  
@@ -25,7 +34,7 @@ I'm **13 years old**, and I want to be your friend :3
 # 🎶 Playlist Commands
 
 **/playlist add** — Adds songs to your playlist.  
-**/playlist list** — Shows all songs you added.  
+**/playlist list** — Shows all added songs.  
 **/playlist play** — Plays your playlist.  
 **/playlist remove** — Removes songs from the playlist.  
 **/unplaylist** — Deletes the playlist and makes the bot leave the call.
@@ -34,7 +43,7 @@ I'm **13 years old**, and I want to be your friend :3
 
 # 🎫 Ticket
 
-**/ticket** — Opens a ticket to make a report or complaint (don’t forget the reason).
+**/ticket** — Opens a ticket to report an issue or make a complaint (don’t forget the reason).
 
 ---
 
