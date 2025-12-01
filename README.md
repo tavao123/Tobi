@@ -19,7 +19,7 @@ I'm **13 years old**, and I want to be your friend :3
 
 ---
 
-# 🎵 Music Commands
+# 🎵 Music Commands (It's not working at the moment)
 
 **/callCR** — Adds a voice channel and turns it into a call creator.  
 **/callen** — Makes the bot join the call to play music.  
