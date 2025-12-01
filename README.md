@@ -31,7 +31,7 @@ I'm **13 years old**, and I want to be your friend :3
 
 ---
 
-# 🎶 Playlist Commands
+# 🎶 Playlist Commands (It's not working at the moment.)
 
 **/playlist add** — Adds songs to your playlist.  
 **/playlist list** — Shows all added songs.  
